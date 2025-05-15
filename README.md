@@ -1,10 +1,10 @@
 ![banner](./beloco.png)
 
-# Beloco VSCode Theme (inspired by Bluloco Dark VSCode Theme)
+# Beloco VSCode Theme
 
 ### Description
 
-Dark VSCode theme for loco
+Dark VSCode theme for loco (inspired by Bluloco Dark VSCode Theme)
 
 ## Syntax Palette
 
