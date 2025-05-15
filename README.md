@@ -1,6 +1,6 @@
 ![banner](./beloco.png)
 
-# Bluloco Dark VSCode Theme
+# Beloco VSCode Theme (inspired by Bluloco Dark VSCode Theme)
 
 ### Description
 
