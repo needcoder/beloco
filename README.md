@@ -41,22 +41,5 @@ I want to keep bluloco a great experience for everybody and your help would be i
 | Class/Type/Interface | ![#ff6480](https://fakeimg.pl/35/ff6480/?text=+) | #ff6480 | rgb(255, 100, 128) |
 | Operator/Punctuation | ![#7a82da](https://fakeimg.pl/35/7a82da/?text=+) | #7a82da | rgb(122, 130, 218) |
 
-## Screenshots
+## Screenshots (soon)
 
-Here are a bunch of screenshots. I tested a long range of languages, these are just a few.
-You can test them all in this repo:
-https://github.com/uloco/syntax-highlighting-samples
-
-![js](screenshots/js.png)
-
-![ts](screenshots/ts.png)
-
-![py](screenshots/py.png)
-
-![rb](screenshots/rb.png)
-
-![php](screenshots/php.png)
-
-![html](screenshots/html.png)
-
-![css](screenshots/css.png)
