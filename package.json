@@ -1,15 +1,12 @@
 {
   "name": "theme-beloco-dark",
   "displayName": "Beloco Theme",
-  "description": "Dark designer color scheme / theme for loco",
+  "description": "Dark VSCode theme for loco",
   "version": "3.7.6",
   "publisher": "needcoder",
   "repository": {
     "type": "git",
     "url": "https://github.com/needcoder/beloco.git"
-  },
-  "sponsor": {
-    "url": "https://github.com/sponsors/uloco"
   },
   "icon": "icon.png",
   "engines": {
