@@ -1,12 +1,12 @@
 {
-  "name": "theme-bluloco-dark",
-  "displayName": "Bluloco Dark Theme",
+  "name": "theme-beloco-dark",
+  "displayName": "Beloco Theme",
   "description": "A fancy but yet sophisticated dark designer color scheme / theme.",
   "version": "3.7.6",
-  "publisher": "uloco",
+  "publisher": "needcoder",
   "repository": {
     "type": "git",
-    "url": "https://github.com/uloco/theme-bluloco-dark.git"
+    "url": "https://github.com/needcoder/beloco.git"
   },
   "sponsor": {
     "url": "https://github.com/sponsors/uloco"
@@ -21,14 +21,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Bluloco Dark",
+        "label": "Beloco",
         "uiTheme": "vs-dark",
-        "path": "./themes/bluloco-dark-color-theme.json"
+        "path": "./themes/beloco-color-theme.json"
       },
       {
-        "label": "Bluloco Dark Italic",
+        "label": "Beloco Italic",
         "uiTheme": "vs-dark",
-        "path": "./themes/bluloco-dark-italic-color-theme.json"
+        "path": "./themes/beloco-italic-color-theme.json"
       }
     ]
   }
