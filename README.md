@@ -1,4 +1,4 @@
-![banner](./beloco.png)
+![banner](./banner.png)
 
 # Beloco VSCode Theme
 
