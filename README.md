@@ -1,4 +1,4 @@
-![banner](./banner.png)
+![banner](./beloco.png)
 
 # Bluloco Dark VSCode Theme
 
