@@ -1,8 +1,8 @@
 {
   "name": "theme-beloco-dark",
   "displayName": "Beloco Theme",
-  "description": "Dark VSCode theme for loco",
-  "version": "3.7.6",
+  "description": "Dark VSCode theme for loco (inspired by Bluloco)",
+  "version": "1.0.0",
   "publisher": "needcoder",
   "repository": {
     "type": "git",
