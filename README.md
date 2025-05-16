@@ -4,7 +4,7 @@
 
 ### Description
 
-Dark VSCode theme for loco (inspired by Bluloco Dark VSCode Theme)
+Dark VSCode theme for loco (inspired by Bluloco)
 
 ## Syntax Palette
 
